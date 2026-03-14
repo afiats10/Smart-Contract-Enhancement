@@ -8,3 +8,4 @@ feat: implement multi-sig admin control
 feat: add batch transfer function
 fix: correct event indexing parameters
 refactor: optimize storage slot usage
+feat: add timelock mechanism for admin actions
