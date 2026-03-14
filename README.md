@@ -7,3 +7,4 @@ fix: resolve modifier visibility issue
 feat: implement multi-sig admin control
 feat: add batch transfer function
 fix: correct event indexing parameters
+refactor: optimize storage slot usage
